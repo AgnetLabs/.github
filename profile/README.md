@@ -1,8 +1,8 @@
 <p align="center">
   <!-- Company Logo -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/agnet-dark.png" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/agnet-light.png" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/agnet-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/agnet-light.svg" />
     <img alt="AgnetLabs Logo" src="assets/agnet-light.png" width="200" />
   </picture>
 </p>
