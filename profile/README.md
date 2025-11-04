@@ -23,8 +23,7 @@
 
 ### 🧠 About AgnetLabs
 
-AgnetLabs is building the foundation for the next generation of intelligent systems.  
-We design tools that let developers **build, orchestrate, and scale** multi-agent systems — without worrying about distributed infrastructure or observability.
+Agnet Labs is an open innovation company building tools, frameworks, and infrastructure for multi-agent systems, AI collaboration, and intelligent automation — including Laddr, our flagship open-source framework.
 
 Our mission is to make **distributed intelligence accessible, transparent, and massively scalable** for everyone.
 
